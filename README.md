@@ -4,7 +4,7 @@
 
 **Pequenos Momentos** 
 é uma página Web desenvolvida no âmbito
-de um curso de HTML e CSS.
+de um.
 
 O projeto pretende mostrar a importância de valorizar as
 pequenas coisas do dia a dia, como a natureza, os animais
